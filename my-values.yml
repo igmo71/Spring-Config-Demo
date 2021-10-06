@@ -1,5 +1,5 @@
 myconfiguration:
-  Value1: some-val
-  Value2: another-val
+  Property1: some-val
+  Property2: another-val
   
 message: hello from development config
