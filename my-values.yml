@@ -1,3 +1,5 @@
-Value1: some-val
-Value2: another-val
+myconfiguration:
+  Value1: some-val
+  Value2: another-val
+  
 message: hello from development config
